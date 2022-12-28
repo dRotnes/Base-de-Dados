@@ -1,0 +1,31 @@
+﻿ID;Nome;Cidade;Abreviacao;N_Vitorias;N_Derrotas;IDTecnico;IDEstadio
+1;Atlanta Hawks;Atlanta;ATL;15;15;1;1
+2;Boston Celtics;Boston;BOS;22;9;2;2
+3;Brooklyn Nets;Brooklyn;BKN;17;7;3;3
+4;Charlotte Hornets;Charlotte;CHA;7;23;4;4
+5;Chicago Bulls;Chicago;CHI;11;18;5;5
+6;Cleveland Cavaliers;Cleveland;CLE;20;11;6;6
+7;Dallas Mavericks;Dallas;DAL;15;15;7;7
+8;Denver Nuggets;Denver;DEN;18;11;8;8
+9;Detroit Pistons;Detroit;DET;8;24;9;9
+10;Golden State Warriors;San Francisco;GSW;15;16;10;10
+11;Houston Rockets;Houston;HOU;9;20;11;11
+12;Indiana Pacers;Indianapolis;IND;15;16;12;12
+13;Los Angeles Clippers;Los Angeles;LAC;18;14;13;13
+14;Los Angeles Lakers;Los Angeles;LAL;13;16;14;13
+15;Memphis Grizzlies;Memphis;MEM;19;10;15;14
+16;Miami Heat;Miami;MIA;16;15;16;15
+17;Milwaukee Bucks;Milwaukee;MIL;21;8;17;16
+18;Minnesota Timberwolves;Minneapolis;MIN;15;15;18;17
+19;New Orleans Pelicans;New Orleans;NOP;18;11;19;18
+20;New York Knicks;New York City;NYK;17;13;20;19
+21;Oklahoma City Thunder;Oklahoma City;OKC;12;18;21;20
+22;Orlando Magic;Orlando;ORL;11;20;22;21
+23;Philadelphia 76ers;Philadelphia;PHI;16;12;23;22
+24;Phoenix Suns;Phoenix;PHO;18;12;24;23
+25;Portland Trail Blazers;Portland;POR;17;13;25;24
+26;Sacramento Kings;Sacramento;SAC;16;12;26;25
+27;San Antonio Spurs;San Antonio;SAS;9;20;27;26
+28;Toronto Raptors;Toronto;TOR;13;17;28;27
+29;Utah Jazz;Salt Lake City;UTA;17;15;29;28
+30;Washington Wizards;Washington;WAS;11;20;30;29
